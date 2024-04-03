@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, Machine Learning, Block Chain.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Javascript and python projects
-- 📫 How to reach me my email is vshandilya220@gmail.com
+- 📫 Contact me, my email is vshandilya220@gmail.com and linked in is https://www.linkedin.com/in/vishal-shandilya-b8b21024a/
 
 <!---
 lordShandilya/lordShandilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
