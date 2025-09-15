@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm currently persuing B.Tech from NIT Patna<br><br>- 🔭 I’m a fullstack developer<br>- 📚 I'm currently learning low level design<br>- ⚡</p>
+<p align="left">I'm currently persuing B.Tech from NIT Patna<br><br>- 🔭 I’m a fullstack developer<br>- 📚 I'm currently learning low level design<br>- ⚡ I love playing games</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
